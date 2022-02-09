@@ -730,7 +730,7 @@ main.scale-down {
   background-color: #f25f5c;
 }
 .cd-section.contact header {
-  background-color: #8abeb2;
+  /* background-color: #8abeb2; */
 }
 @media only screen and (min-width: 700px) {
   .cd-section {
