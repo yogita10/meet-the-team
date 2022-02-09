@@ -59,7 +59,7 @@ a {
 #ui8ads-container .close-ui8-adv::after,
 #ui8ads-container .close-ui8-adv::before {
   content: "";
-  background-color: #fff;
+  /* background-color: #fff; */
   height: 2px;
   width: 14px;
   position: absolute;
@@ -90,7 +90,7 @@ a {
 #carbonads-container .ui8ad,
 #ui8ads-container .carbonad,
 #ui8ads-container .ui8ad {
-  background: rgba(255, 255, 255, 0.9);
+  /* background: rgba(255, 255, 255, 0.9); */
   border: none;
   width: 100%;
   height: auto;
@@ -494,11 +494,11 @@ a {
 }
 .no-touch .cd-nav li a:hover span *,
 .cd-nav li.cd-selected a span * {
-  stroke: #fff;
+  /* stroke: #fff; */
 }
 .no-touch .cd-nav li a:hover em,
 .cd-nav li.cd-selected a em {
-  color: #fff;
+  /* color: #fff; */
 }
 .no-touch .cd-nav li:first-of-type a:hover,
 .cd-nav li.cd-selected:first-of-type a {
@@ -522,7 +522,7 @@ a {
 }
 .no-touch .cd-nav li:nth-of-type(6) a:hover,
 .cd-nav li.cd-selected:nth-of-type(6) a {
-  /* background-color: #8abeb2; */
+  background-color: #8abeb2;
 }
 .cd-nav span,
 .cd-nav em {
@@ -748,7 +748,7 @@ main.scale-down {
   -ms-transform: translateY(-50%);
   -o-transform: translateY(-50%);
   transform: translateY(-50%);
-  color: #fff;
+  /* color: #fff; */
   text-align: center;
 }
 .cd-title > * {
@@ -766,11 +766,11 @@ main.scale-down {
   border-radius: 50em;
   border: 2px solid rgba(255, 255, 255, 0.5);
   font-weight: 700;
-  color: #fff;
+  /* color: #fff; */
   font-family: lora, serif;
 }
 .no-touch .cd-title a:hover {
-  border-color: #fff;
+  /* border-color: #fff; */
 }
 .cd-title span {
   vertical-align: middle;
@@ -784,7 +784,7 @@ main.scale-down {
   }
 }
 .cd-content {
-  background-color: #fff;
+  /* background-color: #fff; */
   padding: 4em 0;
 }
 .cd-content p {
