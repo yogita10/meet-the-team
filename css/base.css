@@ -485,7 +485,7 @@ body{
 	margin:0;
 	padding:0;
 	/* background-color: #2980b9; */
-	background-image: url('https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif');
+	background: url('https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif');
 	background-size: cover;
 	background-attachment: fixed;
 	-webkit-animation: 10s linear 0s normal none infinite animate;
