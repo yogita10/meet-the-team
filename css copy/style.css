@@ -11,6 +11,9 @@ body {
   font-family: open sans, sans-serif;
   /* color: #9e87ce; */
   /* background-color: #403438; */
+  background: url('https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif');
+	background-size: cover;
+	background-attachment: fixed;
 }
 svg {
   max-width: 100%;
