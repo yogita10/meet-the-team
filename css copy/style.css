@@ -5,6 +5,9 @@
 }
 html {
   font-size: 62.5%;
+  background: url('https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif');
+	background-size: cover;
+	background-attachment: fixed;
 }
 body {
   font-size: 1.6rem;
@@ -463,7 +466,7 @@ a {
   }
 }
 .cd-nav {
-  background-color: #f2f2f2;
+  /* background-color: #f2f2f2; */
 }
 .cd-nav::after {
   clear: both;
