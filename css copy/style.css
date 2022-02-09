@@ -851,3 +851,14 @@ main.scale-down {
     border-right-width: 1px solid #e0cf75;
   }
 }
+
+
+body {
+    font-size: 1.6rem;
+    font-family: open sans, sans-serif;
+    /* color: #9e87ce; */
+    /* background-color: #403438; */
+    background: url('https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif');
+      background-size: cover;
+      background-attachment: fixed;
+  }
