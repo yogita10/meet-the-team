@@ -519,7 +519,7 @@ a {
 }
 .no-touch .cd-nav li:nth-of-type(6) a:hover,
 .cd-nav li.cd-selected:nth-of-type(6) a {
-  background-color: #8abeb2;
+  /* background-color: #8abeb2; */
 }
 .cd-nav span,
 .cd-nav em {
